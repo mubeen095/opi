@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1089" height="661.064" viewBox="0 0 1089 661.064">
+  <g id="cs-time-line" transform="translate(-141 -1409)">
+    <text id="Concept" transform="translate(192 1428)" fill="#5857f9" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0.171em"><tspan x="-47.963" y="0">CONCEPT</tspan></text>
+    <text id="FInal_product" data-name="FInal product" transform="translate(952 1428)" fill="#5857f9" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0.171em"><tspan x="-84.399" y="0">FINAL PRODUCT</tspan></text>
+    <text id="Week_2" data-name="Week 2" transform="translate(332.5 1506)" fill="#333" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em"><tspan x="-26.872" y="0">WEEK 2</tspan></text>
+    <line id="Line_337" data-name="Line 337" y2="597.064" transform="translate(295 1473)" fill="none" stroke="#dbdbdb" stroke-width="1"/>
+    <text id="Week_3" data-name="Week 3" transform="translate(486.5 1506)" fill="#333" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em"><tspan x="-26.872" y="0">WEEK 3</tspan></text>
+    <line id="Line_337-2" data-name="Line 337" y2="597.064" transform="translate(448 1473)" fill="none" stroke="#dbdbdb" stroke-width="1"/>
+    <text id="Week_5" data-name="Week 5" transform="translate(799.5 1506)" fill="#333" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em"><tspan x="-26.872" y="0">WEEK 5</tspan></text>
+    <line id="Line_337-3" data-name="Line 337" y2="597.064" transform="translate(762 1473)" fill="none" stroke="#dbdbdb" stroke-width="1"/>
+    <text id="Week_1" data-name="Week 1" transform="translate(181 1506)" fill="#333" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em"><tspan x="-26.872" y="0">WEEK 1</tspan></text>
+    <line id="Line_337-4" data-name="Line 337" y2="597.064" transform="translate(145.5 1473)" fill="none" stroke="#333" stroke-width="1" opacity="0.59"/>
+    <circle id="Ellipse_2778" data-name="Ellipse 2778" cx="4" cy="4" r="4" transform="translate(141 1465)" fill="#878787"/>
+    <text id="Week_6" data-name="Week 6" transform="translate(953.5 1506)" fill="#333" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em"><tspan x="-26.872" y="0">WEEK 6</tspan></text>
+    <line id="Line_337-5" data-name="Line 337" y2="597.064" transform="translate(915 1473)" fill="none" stroke="#dbdbdb" stroke-width="1"/>
+    <text id="Week_7" data-name="Week 7" transform="translate(1107.5 1506)" fill="#333" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em"><tspan x="-26.872" y="0">WEEK 7</tspan></text>
+    <line id="Line_353" data-name="Line 353" y2="597.064" transform="translate(1070 1473)" fill="none" stroke="#dbdbdb" stroke-width="1"/>
+    <g id="Group_6951" data-name="Group 6951" transform="translate(0 -37)">
+      <circle id="Ellipse_2773" data-name="Ellipse 2773" cx="4" cy="4" r="4" transform="translate(1222 1502)" fill="#878787"/>
+      <line id="Line_337-6" data-name="Line 337" y2="597.064" transform="translate(1225.5 1510)" fill="none" stroke="#333" stroke-width="1" opacity="0.59"/>
+    </g>
+    <g id="Group_6955" data-name="Group 6955" transform="translate(0 -88)">
+      <rect id="Rectangle_1918" data-name="Rectangle 1918" width="302" height="49" transform="translate(146 1649)" fill="#dfdfdf"/>
+      <rect id="Rectangle_1919" data-name="Rectangle 1919" width="252" height="49" transform="translate(146 1718)" fill="#dfdfdf"/>
+      <text id="Research" transform="translate(196 1678)" fill="#333" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-27.463" y="0">Research</tspan></text>
+      <text id="Startegy" transform="translate(194 1748)" fill="#333" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-25.402" y="0">Startegy</tspan></text>
+      <g id="Group_6952" data-name="Group 6952" transform="translate(416 1663)">
+        <circle id="Ellipse_2807" data-name="Ellipse 2807" cx="11" cy="11" r="11" fill="#fff"/>
+        <circle id="Ellipse_2809" data-name="Ellipse 2809" cx="4" cy="4" r="4" transform="translate(7 7)" fill="#333"/>
+      </g>
+      <g id="Group_6953" data-name="Group 6953" transform="translate(366.001 1732)">
+        <circle id="Ellipse_2808" data-name="Ellipse 2808" cx="11" cy="11" r="11" transform="translate(-0.001)" fill="#fff"/>
+        <circle id="Ellipse_2810" data-name="Ellipse 2810" cx="4" cy="4" r="4" transform="translate(6.999 7)" fill="#333"/>
+      </g>
+    </g>
+    <rect id="Rectangle_1904" data-name="Rectangle 1904" width="312" height="49" transform="translate(295 1723)" fill="#dfdfdf"/>
+    <text id="Branding" transform="translate(343 1753)" fill="#333" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-27.87" y="0">Branding</tspan></text>
+    <g id="Group_6954" data-name="Group 6954" transform="translate(575.194 1737)">
+      <circle id="Ellipse_2783" data-name="Ellipse 2783" cx="11" cy="11" r="11" transform="translate(-0.194)" fill="#fff"/>
+      <circle id="Ellipse_2784" data-name="Ellipse 2784" cx="4" cy="4" r="4" transform="translate(6.806 7)" fill="#333"/>
+    </g>
+    <rect id="Rectangle_1920" data-name="Rectangle 1920" width="620" height="49" transform="translate(295 1789)" fill="#dfdfdf"/>
+    <text id="UX" transform="translate(324 1819)" fill="#333" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-8.938" y="0">UX</tspan></text>
+    <g id="Group_6957" data-name="Group 6957" transform="translate(-145 -15)">
+      <rect id="Rectangle_1906" data-name="Rectangle 1906" width="153" height="49" transform="translate(440 1870)" fill="#dfdfdf"/>
+      <text id="UI" transform="translate(469 1900)" fill="#333" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-6.672" y="0">UI</tspan></text>
+      <circle id="Ellipse_2787" data-name="Ellipse 2787" cx="11" cy="11" r="11" transform="translate(561 1884)" fill="#fff"/>
+      <circle id="Ellipse_2788" data-name="Ellipse 2788" cx="4" cy="4" r="4" transform="translate(568 1891)" fill="#333"/>
+    </g>
+    <g id="Group_6960" data-name="Group 6960" transform="translate(167 -15)">
+      <rect id="Rectangle_1906-2" data-name="Rectangle 1906" width="308" height="49" transform="translate(440 1870)" fill="#dfdfdf"/>
+      <text id="UI-2" data-name="UI" transform="translate(494 1900)" fill="#333" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-6.672" y="0">UI</tspan></text>
+      <circle id="Ellipse_2787-2" data-name="Ellipse 2787" cx="11" cy="11" r="11" transform="translate(716 1884)" fill="#fff"/>
+      <circle id="Ellipse_2788-2" data-name="Ellipse 2788" cx="4" cy="4" r="4" transform="translate(723 1891)" fill="#333"/>
+    </g>
+    <g id="Group_6959" data-name="Group 6959" transform="translate(-57 -21)">
+      <rect id="Rectangle_1909" data-name="Rectangle 1909" width="431" height="49" transform="translate(506 1939)" fill="#dfdfdf"/>
+      <text id="Content" transform="translate(554 1969)" fill="#333" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-24.763" y="0">Content</tspan></text>
+      <circle id="Ellipse_2793" data-name="Ellipse 2793" cx="11" cy="11" r="11" transform="translate(905 1953)" fill="#fff"/>
+      <circle id="Ellipse_2794" data-name="Ellipse 2794" cx="4" cy="4" r="4" transform="translate(912 1960)" fill="#333"/>
+    </g>
+    <text id="Week_4" data-name="Week 4" transform="translate(646 1506)" fill="#333" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em"><tspan x="-26.872" y="0">WEEK 4</tspan></text>
+    <line id="Line_337-7" data-name="Line 337" y2="597.064" transform="translate(607.5 1473)" fill="none" stroke="#333" stroke-width="1" opacity="0.59"/>
+    <circle id="Ellipse_2801" data-name="Ellipse 2801" cx="4" cy="4" r="4" transform="translate(603 1465)" fill="#878787"/>
+    <g id="Group_6962" data-name="Group 6962" transform="translate(102 -24)">
+      <rect id="Rectangle_1908" data-name="Rectangle 1908" width="463" height="49" transform="translate(505 2008)" fill="#dfdfdf"/>
+      <text id="Development" transform="translate(568 2038)" fill="#333" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-41.518" y="0">Development</tspan></text>
+      <circle id="Ellipse_2796" data-name="Ellipse 2796" cx="11" cy="11" r="11" transform="translate(926 2022)" fill="#fff"/>
+      <circle id="Ellipse_2795" data-name="Ellipse 2795" cx="4" cy="4" r="4" transform="translate(933 2029)" fill="#333"/>
+    </g>
+    <rect id="Rectangle_1921" data-name="Rectangle 1921" width="156" height="49" transform="translate(1070 1984)" fill="#d2d2d2" opacity="0.3"/>
+    <rect id="Rectangle_1922" data-name="Rectangle 1922" width="310" height="49" transform="translate(916 1789)" fill="#d2d2d2" opacity="0.3"/>
+    <rect id="Rectangle_1923" data-name="Rectangle 1923" width="263" height="49" transform="translate(916 1855)" fill="#d2d2d2" opacity="0.3"/>
+    <circle id="Ellipse_2811" data-name="Ellipse 2811" cx="11" cy="11" r="11" transform="translate(1194 1998)" fill="#fff"/>
+    <circle id="Ellipse_2812" data-name="Ellipse 2812" cx="11" cy="11" r="11" transform="translate(1194 1803)" fill="#fff"/>
+    <circle id="Ellipse_2815" data-name="Ellipse 2815" cx="11" cy="11" r="11" transform="translate(1147 1869)" fill="#fff"/>
+    <circle id="Ellipse_2813" data-name="Ellipse 2813" cx="4" cy="4" r="4" transform="translate(1201 2005)" fill="#333"/>
+    <circle id="Ellipse_2814" data-name="Ellipse 2814" cx="4" cy="4" r="4" transform="translate(1201 1810)" fill="#333"/>
+    <circle id="Ellipse_2816" data-name="Ellipse 2816" cx="4" cy="4" r="4" transform="translate(1154 1876)" fill="#333"/>
+    <text id="Development-2" data-name="Development" transform="translate(1133 2014)" fill="#333" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-41.518" y="0">Development</tspan></text>
+    <text id="UX-2" data-name="UX" transform="translate(943 1819)" fill="#333" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-8.938" y="0">UX</tspan></text>
+    <text id="Gamification" transform="translate(976 1885)" fill="#333" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-38.9" y="0">Gamification</tspan></text>
+  </g>
+</svg>

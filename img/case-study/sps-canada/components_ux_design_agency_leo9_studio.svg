@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1146.5" height="673.5" viewBox="0 0 1146.5 673.5">
+  <defs>
+    <filter id="Rectangle_21" x="844.5" y="78.5" width="302" height="441" filterUnits="userSpaceOnUse">
+      <feOffset dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feFlood flood-color="#9e9e9e" flood-opacity="0.22"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_22" x="759.5" y="322.5" width="302" height="313" filterUnits="userSpaceOnUse">
+      <feOffset dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur-2"/>
+      <feFlood flood-color="#9e9e9e" flood-opacity="0.22"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_15" x="61.5" y="372.5" width="286" height="301" filterUnits="userSpaceOnUse">
+      <feOffset dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur-3"/>
+      <feFlood flood-color="#9e9e9e" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_19410" x="0" y="197" width="224.999" height="230.33" filterUnits="userSpaceOnUse">
+      <feOffset dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9.5" result="blur-4"/>
+      <feFlood flood-color="#9e9e9e" flood-opacity="0.322"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_23" x="196" y="71" width="109" height="134" filterUnits="userSpaceOnUse">
+      <feOffset dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5.5" result="blur-5"/>
+      <feFlood flood-color="#9e9e9e" flood-opacity="0.471"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rounded_Rectangle_2_copy_4" x="351" y="0" width="444" height="645" filterUnits="userSpaceOnUse">
+      <feOffset dy="24" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="28.5" result="blur-6"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_6789" data-name="Group 6789" transform="translate(-106.5 -1833.5)">
+    <g id="Group_2198" data-name="Group 2198" transform="translate(-4 -2275)">
+      <g id="Group_296" data-name="Group 296" transform="translate(9 -26)">
+        <g transform="matrix(1, 0, 0, 1, 101.5, 4134.5)" filter="url(#Rectangle_21)">
+          <rect id="Rectangle_21-2" data-name="Rectangle 21" width="260" height="399" transform="translate(865.5 92.5)" fill="#333"/>
+        </g>
+        <text id="_Botton_icon_plus_iconOnly_true_radius_80_..._onClick_New_Button_" data-name="&lt;Botton
+icon=&quot;plus&quot;
+iconOnly={true}
+radius={80}
+{ ... { onClick } }&gt;
+New
+&lt;/Button&gt;" transform="translate(995 4268)" fill="#fff" font-size="12" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">&lt;</tspan><tspan y="0" fill="#adb900">Botton</tspan><tspan x="0" y="28">icon=&quot;</tspan><tspan y="28" fill="#6db437">plus</tspan><tspan y="28">&quot;</tspan><tspan x="0" y="56">iconOnly={true}</tspan><tspan x="0" y="84">radius={80}</tspan><tspan x="0" y="112">{ ... { onClick } }&gt;</tspan><tspan x="0" y="140">New</tspan><tspan x="0" y="168">&lt;/</tspan><tspan y="168" fill="#adb900">Button</tspan><tspan y="168">&gt;</tspan></text>
+      </g>
+      <path id="Path_19412" data-name="Path 19412" d="M-3516.682-4650.488h-98.8v152.657H-3662" transform="translate(4061 9110.773)" fill="none" stroke="#666" stroke-width="1" stroke-dasharray="3 4" opacity="0.64"/>
+      <path id="Path_19413" data-name="Path 19413" d="M-3925.128-4711.779l190.6,5.43v178.075h75.289" transform="translate(4227.442 9121.597)" fill="none" stroke="#666" stroke-width="1" stroke-dasharray="3 4" opacity="0.64"/>
+      <path id="Path_19414" data-name="Path 19414" d="M-3190.214-4701.218h97.894v-83.235h46.818" transform="translate(4012.502 9070.582)" fill="none" stroke="#666" stroke-width="1" stroke-dasharray="3 4" opacity="0.64"/>
+      <g id="Group_297" data-name="Group 297" transform="translate(16 -24)">
+        <g transform="matrix(1, 0, 0, 1, 94.5, 4132.5)" filter="url(#Rectangle_22)">
+          <rect id="Rectangle_22-2" data-name="Rectangle 22" width="260" height="271" transform="translate(780.5 336.5)" fill="#ec1f27"/>
+        </g>
+        <text id="_Button_Style_font-weight:_100_font-size:_16px_line-height:_27px_letter-spacing:_normal_font-family:_Gilroy_border-radius:_0px_" data-name="// Button Style
+$font-weight:  100;
+$font-size:  16px;
+$line-height: 27px;
+$letter-spacing: normal;
+$font-family: 
+Gilroy;
+$border-radius:  0px;" transform="translate(912 4519)" fill="#fff" font-size="12" font-family="SegoeUI-Light, Segoe UI" font-weight="300"><tspan x="0" y="0">// Button Style</tspan><tspan x="0" y="26" xml:space="preserve">$font-weight:  100;</tspan><tspan x="0" y="52" xml:space="preserve">$font-size:  16px;</tspan><tspan x="0" y="78">$line-height: 27px;</tspan><tspan x="0" y="104">$letter-spacing: normal;</tspan><tspan x="0" y="130">$font-family: </tspan><tspan x="0" y="156">Gilroy;</tspan><tspan x="0" y="182" xml:space="preserve">$border-radius:  0px;</tspan></text>
+      </g>
+      <g id="Group_301" data-name="Group 301" transform="translate(-17 -26)">
+        <g transform="matrix(1, 0, 0, 1, 127.5, 4134.5)" filter="url(#Rectangle_15)">
+          <rect id="Rectangle_15-2" data-name="Rectangle 15" width="166" height="181" transform="translate(121.5 425.5)" fill="#fff"/>
+        </g>
+        <text id="Aa" transform="translate(331 4656)" fill="#272727" font-size="46" font-family="SegoeUI, Segoe UI"><tspan x="-26.538" y="0">Aa</tspan></text>
+        <path id="Path_19417" data-name="Path 19417" d="M0,0H167V29H0Z" transform="translate(249 4713)" fill="#ececec"/>
+        <text id="Font_Style" data-name="Font Style" transform="translate(333 4731)" fill="#666" font-size="12" font-family="SegoeUI-Light, Segoe UI" font-weight="300"><tspan x="-24.533" y="0">Font Style</tspan></text>
+        <text id="Gilroy" transform="translate(333 4682)" fill="#666" font-size="12" font-family="SegoeUI-Light, Segoe UI" font-weight="300"><tspan x="-14.414" y="0">Gilroy</tspan></text>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 110.5, 4108.5)" filter="url(#Path_19410)">
+        <path id="Path_19410-2" data-name="Path 19410" d="M0,0H168V173.33H0Z" transform="translate(28.5 218.5)" fill="#f5f6fc"/>
+      </g>
+      <g id="Group_299" data-name="Group 299" transform="translate(0 -26)">
+        <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(177 4419)" fill="rgba(236,31,38,0.07)" stroke="rgba(236,31,38,0.99)" stroke-width="1">
+          <rect width="92" height="30" stroke="none"/>
+          <rect x="0.5" y="0.5" width="91" height="29" fill="none"/>
+        </g>
+        <text id="View" transform="translate(223 4438)" fill="#040404" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-13.963" y="0">VIEW</tspan></text>
+      </g>
+      <g id="Group_300" data-name="Group 300" transform="translate(0 -26)">
+        <rect id="Rectangle_17" data-name="Rectangle 17" width="167" height="29" transform="translate(139 4497)" fill="#fff"/>
+        <text id="Button_Style" data-name="Button Style" transform="translate(223 4515)" fill="#666" font-size="12" font-family="SegoeUI-Light, Segoe UI" font-weight="300"><tspan x="-30" y="0">Button Style</tspan></text>
+      </g>
+      <g id="Group_298" data-name="Group 298" transform="translate(0 1)">
+        <g transform="matrix(1, 0, 0, 1, 110.5, 4107.5)" filter="url(#Rectangle_23)">
+          <rect id="Rectangle_23-2" data-name="Rectangle 23" width="76" height="101" transform="translate(212.5 80.5)" fill="#ee2c35"/>
+        </g>
+        <rect id="Rectangle_24" data-name="Rectangle 24" width="76" height="29" transform="translate(323 4260)" fill="#fff"/>
+        <text id="_EC1F27" data-name="#EC1F27" transform="translate(360 4279)" fill="#666" font-size="11" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="-21.868" y="0">#EC1F27</tspan></text>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 110.5, 4108.5)" filter="url(#Rounded_Rectangle_2_copy_4)">
+        <rect id="Rounded_Rectangle_2_copy_4-2" data-name="Rounded Rectangle 2 copy 4" width="273" height="474" rx="10" transform="translate(436.5 61.5)" fill="#fff"/>
+      </g>
+      <g id="Rounded_Rectangle_2_copy_5" data-name="Rounded Rectangle 2 copy 5" transform="translate(547 4170)">
+        <path id="Rounded_Rectangle_2_copy_5-2" data-name="Rounded Rectangle 2 copy 5" d="M10,0H263a10,10,0,0,1,10,10V208a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" fill="#f5f5f5"/>
+      </g>
+      <text id="KNOW_MORE" data-name="KNOW MORE" transform="translate(571.035 4604.778)" fill="#333" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em" text-decoration="underline"><tspan x="0" y="0">KNOW MORE</tspan></text>
+      <g id="image" transform="translate(662 4255)">
+        <path id="Path_19419" data-name="Path 19419" d="M185.138,105.094a4.389,4.389,0,1,0-4.389-4.389A4.394,4.394,0,0,0,185.138,105.094Zm0-6.2a1.815,1.815,0,1,1-1.815,1.815A1.817,1.817,0,0,1,185.138,98.89Zm0,0" transform="translate(-165.241 -88.095)" fill="#666"/>
+        <path id="Path_19420" data-name="Path 19420" d="M42.328.5H1.6A1.606,1.606,0,0,0,0,2.1v34.47a1.606,1.606,0,0,0,1.6,1.6H42.328a1.606,1.606,0,0,0,1.6-1.6V2.1a1.606,1.606,0,0,0-1.6-1.6Zm-.97,2.574v20.37l-8.1-8.1a1.356,1.356,0,0,0-1.914,0L19.9,26.8l-7.314-7.313a1.354,1.354,0,0,0-1.915,0l-8.1,8.1V3.074ZM2.575,35.6V31.22l9.052-9.052,7.313,7.313a1.353,1.353,0,0,0,1.915,0l11.45-11.45,9.053,9.053V35.6Zm0,0" transform="translate(-0.001 -0.5)" fill="#666"/>
+      </g>
+      <text id="Latest_News_from_Canada" data-name="Latest News from
+Canada" transform="translate(571.074 4453.887)" fill="#010101" font-size="26" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Latest News from</tspan><tspan x="0" y="33">Canada</tspan></text>
+      <text id="We_have_the_expertise_knowledge_and_skills_to_guide_you_and_advise_you_whether_you_re_looking_to_study_work_in_visit_or_relocate_to_the_country." data-name="We have the expertise, knowledge and skills to guide you and advise you, whether you&apos;re looking to study, work in, visit or relocate to the country." transform="translate(572.074 4507.799)" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="13">We have the expertise, knowledge and </tspan><tspan x="0" y="32">skills to guide you and advise you, </tspan><tspan x="0" y="51">whether you&apos;re looking to study, work in, </tspan><tspan x="0" y="70">visit or relocate to the country.</tspan></text>
+      <rect id="Rectangle_152" data-name="Rectangle 152" width="50" height="23" transform="translate(704 4378)" fill="#fcc"/>
+      <text id="OUR_BLOG" data-name="OUR BLOG" transform="translate(572.314 4411.957)" fill="#ee2c35" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em"><tspan x="0" y="0">OUR BLOG</tspan></text>
+      <text id="_48PX" data-name="48PX" transform="translate(713.314 4393.957)" fill="#ee2c35" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em"><tspan x="0" y="0">48PX</tspan></text>
+      <path id="Path_19522" data-name="Path 19522" d="M-16728,2571.228h120.344v184.161h27.146" transform="translate(17127 1654)" fill="none" stroke="#666" stroke-width="1" stroke-dasharray="3 4" opacity="0.64"/>
+      <path id="Path_19523" data-name="Path 19523" d="M-16580,2724h273.323" transform="translate(17127 1654)" fill="none" stroke="#666" stroke-width="1" stroke-dasharray="1 2" opacity="0.64"/>
+      <g id="Rectangle_154" data-name="Rectangle 154" transform="translate(269 4389)" fill="rgba(236,31,38,0.29)" stroke="#ec1f26" stroke-width="1">
+        <rect width="4" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="3" height="3" fill="none"/>
+      </g>
+      <g id="Rectangle_158" data-name="Rectangle 158" transform="translate(173 4389)" fill="rgba(236,31,38,0.29)" stroke="#ec1f26" stroke-width="1">
+        <rect width="4" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="3" height="3" fill="none"/>
+      </g>
+      <g id="Rectangle_157" data-name="Rectangle 157" transform="translate(269 4423)" fill="rgba(236,31,38,0.29)" stroke="#ec1f26" stroke-width="1">
+        <rect width="4" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="3" height="3" fill="none"/>
+      </g>
+      <g id="Rectangle_159" data-name="Rectangle 159" transform="translate(173 4423)" fill="rgba(236,31,38,0.29)" stroke="#ec1f26" stroke-width="1">
+        <rect width="4" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="3" height="3" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
